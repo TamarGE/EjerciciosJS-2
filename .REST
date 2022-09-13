@@ -1,0 +1,4 @@
+GET http://localhost:9000/
+//en la primera linea de la Response aparece HTTP/1.1 200 OK:
+//Todo lo que sea rango 200 significa OK.
+//el 404, por ejemplo significa un tipo específico de error.
